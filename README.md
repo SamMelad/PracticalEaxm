@@ -1,2 +1,2 @@
 # PracticalEaxm
-R code to practical exam
+This is code file and the visualiztion images implementing with the file
